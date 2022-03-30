@@ -1,1 +1,1 @@
-My first readme
+Updated Readme My first readme. This is a project on how to setup your git and github account.
